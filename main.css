@@ -3,5 +3,12 @@ p {
 }
 li 
 {
-    font-size: 30px;
+    font-size: 20px;
+}
+.negrito {
+    font-weight: bold;
+}
+
+.lista-numerada {
+    list-style-type: decimal;
 }
